@@ -4,7 +4,15 @@
         <link>https://ImElliotKim.github.io/posts/</link>
         <description>All Posts | My New Blog Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>  (Elliot)</managingEditor>
-            <webMaster>  (Elliot)</webMaster><lastBuildDate>Wed, 28 Jun 2023 18:39:13 -0400</lastBuildDate><atom:link href="https://ImElliotKim.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>  (Elliot)</webMaster><lastBuildDate>Wed, 28 Jun 2023 19:29:42 -0400</lastBuildDate><atom:link href="https://ImElliotKim.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>New1</title>
+    <link>https://ImElliotKim.github.io/posts/new1/</link>
+    <pubDate>Wed, 28 Jun 2023 19:29:42 -0400</pubDate>
+    <author>Elliot</author>
+    <guid>https://ImElliotKim.github.io/posts/new1/</guid>
+    <description><![CDATA[content here]]></description>
+</item>
+<item>
     <title>This is the title</title>
     <link>https://ImElliotKim.github.io/posts/mypost1/</link>
     <pubDate>Wed, 28 Jun 2023 18:39:13 -0400</pubDate>

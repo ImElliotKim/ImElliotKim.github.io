@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Blog Site</title>
+        <link>https://ImElliotKim.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>  (Elliot)</managingEditor>
+            <webMaster>  (Elliot)</webMaster><lastBuildDate>Wed, 28 Jun 2023 18:39:13 -0400</lastBuildDate>
+            <atom:link href="https://ImElliotKim.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>This is the title</title>
+    <link>https://ImElliotKim.github.io/posts/mypost1/</link>
+    <pubDate>Wed, 28 Jun 2023 18:39:13 -0400</pubDate>
+    <author>Elliot</author>
+    <guid>https://ImElliotKim.github.io/posts/mypost1/</guid>
+    <description><![CDATA[And here is some content
+print(&#34;Hello World!&#34;) ]]></description>
+</item>
+</channel>
+</rss>

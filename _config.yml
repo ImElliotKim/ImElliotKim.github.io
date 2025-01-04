@@ -324,19 +324,19 @@ defaults:
       share: true
       related: true
 
-  # Default for pages in the `about` collection
+  # _about
   - scope:
       path: ""
       type: about
     values:
       layout: single # Or a custom layout for "about" pages
-  # Default for portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single # Or a custom portfolio layout
-  # Default for blog posts
+  # _blog
   - scope:
       path: ""
       type: blog

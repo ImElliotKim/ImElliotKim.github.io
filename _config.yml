@@ -331,12 +331,14 @@ defaults:
       type: about
     values:
       layout: single # Or a custom layout for "about" pages
+      show_date: false
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single # Or a custom portfolio layout
+      show_date: false
   # _blog
   - scope:
       path: ""

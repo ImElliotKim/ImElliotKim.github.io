@@ -7,3 +7,4 @@ show_date: false
 ---
 
 Welcome to my website! I’m Elliot Kim, and this is where I share my journey.
+Download my CV here: [Download PDF](assets/files/cv.pdf).

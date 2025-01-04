@@ -324,28 +324,35 @@ defaults:
       share: true
       related: true
 
-  # _portfolio
+  # Default for pages in the `about` collection
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single # Or a custom layout for "about" pages
+  # Default for portfolio
   - scope:
       path: ""
       type: portfolio
     values:
+      layout: single # Or a custom portfolio layout
+  # Default for blog posts
+  - scope:
+      path: ""
+      type: blog
+    values:
       layout: single
-      author_profile: false
-      share: true
 
 collections:
+  about:
+    output: true
+    permalink: /about/:title/
   portfolio:
     output: true
     permalink: /portfolio/:title/
   blog:
     output: true
     permalink: /blog/:title/
-  resources:
-    output: true
-    permalink: /resources/:title/
-  cv:
-    output: true
-    permalink: /cv/:title/
 
 nav:
   - title: "About"
